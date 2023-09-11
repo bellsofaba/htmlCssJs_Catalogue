@@ -221,9 +221,12 @@ html {
  color: #fff;
  width: 0;
  overflow: hidden;
-
 }
 
+.gallery-link:hover .food-name {
+  width: 100%;
+  transition: width 1.5s .5s;
+}
 .food-description {
  position: absolute;
  bottom: 3vw;
