@@ -433,3 +433,11 @@ html {
   text-align: center;
 }
 /* End of Sectioin-4 */
+
+/* Responsive */
+@media(max-width: 1400px){
+  html{
+  font-size: 50%;
+  }
+}
+/* End of Responsive */
