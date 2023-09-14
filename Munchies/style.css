@@ -439,5 +439,8 @@ html {
   html{
   font-size: 50%;
   }
+  .section-2 {
+    height: auto;
+  }
 }
 /* End of Responsive */
