@@ -441,6 +441,7 @@ html {
   }
   .section-2 {
     height: auto;
+    padding: 10rems;
   }
 }
 /* End of Responsive */
