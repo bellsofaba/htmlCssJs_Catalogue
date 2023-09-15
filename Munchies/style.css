@@ -447,5 +447,10 @@ html {
   .cards-container {
     margin-top: 10rem;
   }
+
+  .gallery-link {
+    width: 40rem;
+    height: 25rem;
+  }
 }
 /* End of Responsive */
