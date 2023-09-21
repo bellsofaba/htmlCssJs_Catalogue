@@ -424,8 +424,8 @@ html {
 }
 
 .pricing-card {
-  width: 28rem !important;
-  height: 45rem !important;
+  width: 28rem!important;
+  height: 45rem!important;
   background-color: #181b1d;
   border-radius: 1rem;
   box-shadow: 2rem 2rem 6rem rgba(0, 0, 0, 0.7);
@@ -454,18 +454,22 @@ html {
 
 .heading-free {
   background: linear-gradient(to right, #087285, #0da5d3);
+  border-radius: 1rem 1rem 0 0;
 }
 
 .heading-basic {
   background: linear-gradient(to right, #946809, #bdba0e);
+  border-radius: 1rem 1rem 0 0;
 }
 
 .heading-standard {
   background: linear-gradient(to right, #a10c14, #e23b3b);
+  border-radius: 1rem 1rem 0 0;
 }
 
 .heading-premium {
   background: linear-gradient(to right, #0b7e48, #3be286);
+  border-radius: 1rem 1rem 0 0;
 }
 
 .pricing-card-price {
@@ -490,19 +494,19 @@ html {
   letter-spacing: 0.1rem;
 }
 
-.list-free {
+.list-free li {
   color: #0da5d3;
 }
 
-.list-basic {
+.list-basic li{
   color: #bdba0e;
 }
 
-.list-standard {
+.list-standard li{
   color: #e23b3b;
 }
 
-.list-premium {
+.list-premium li{
   color: #3be286;
 }
 
